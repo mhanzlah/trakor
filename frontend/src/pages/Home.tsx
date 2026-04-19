@@ -33,7 +33,7 @@ export default function Home() {
                             </Button>
 
                             <Button asChild variant="outline" className="w-full sm:w-auto">
-                                <a href="https://github.com/mhanzlah/tracker" target="_blank" rel="noopener noreferrer">
+                                <a href="https://github.com/mhanzlah/trakor" target="_blank" rel="noopener noreferrer">
                                     Source Code
                                     <FaGithub className="size-4" />
                                 </a>
